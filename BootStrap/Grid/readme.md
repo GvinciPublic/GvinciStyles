@@ -1,3 +1,3 @@
 Modelo do grid para os componentes
 
-![modelo 1](grid.png)
+![modelo 1](GridModel1.png)
